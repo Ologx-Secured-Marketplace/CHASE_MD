@@ -1,4 +1,7 @@
 {
-  "name": "chase-md-bot",
-  "version": "1.0.0"
-}
+  "name": "chase-md",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
